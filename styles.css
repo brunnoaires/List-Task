@@ -24,7 +24,7 @@ body {
   min-width: 500px;
 }
 
-.name-task-containerr {
+.name-task-container {
   background-color: #fff;
   padding: 30px 20px;
   border-radius: 5px;
@@ -33,7 +33,7 @@ body {
   flex-direction: column;
 }
 
-.name-task-containerr input {
+.name-task-container input {
   flex: 3;
   font-size: 1rem;
   border: 2px solid #d1d3d4;
@@ -43,7 +43,7 @@ body {
   margin-bottom: 20px;
 }
 
-.name-task-containerr input:focus {
+.name-task-container input:focus {
   outline: none;
   border-color: #41b883;
 }
