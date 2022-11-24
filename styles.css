@@ -24,7 +24,7 @@ body {
   min-width: 500px;
 }
 
-.nome-task-container {
+.name-task-containerr {
   background-color: #fff;
   padding: 30px 20px;
   border-radius: 5px;
@@ -33,7 +33,7 @@ body {
   flex-direction: column;
 }
 
-.nome-task-container input {
+.name-task-containerr input {
   flex: 3;
   font-size: 1rem;
   border: 2px solid #d1d3d4;
@@ -43,12 +43,12 @@ body {
   margin-bottom: 20px;
 }
 
-.nome-task-container input:focus {
+.name-task-containerr input:focus {
   outline: none;
   border-color: #41b883;
 }
 
-.adicionar-task-button {
+.new-task-button {
   flex: 1;
   border-radius: 5px;
   font-weight: 500;
